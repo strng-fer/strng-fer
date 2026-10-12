@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=180&section=header&text=Hi%20there,%20I'm%20Feryadi%20Yulius%20%F0%9F%91%8B&fontSize=32&fontAlignY=36&animation=fadeIn&desc=Data%20Science%20Student%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=180&section=header&text=Hi%20there,%20I'm%20Feryadi%20Yulius%20%F0%9F%91%8B&fontSize=32&fontAlignY=36&animation=fadeIn&desc=Data%20Science%20Graduate%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <p align="center">
   <a href="https://github.com/strng-fer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=560&lines=Data+Science+Student+%40+ITERA;Passionate+about+Machine+Learning;Python+%7C+R+%7C+SQL+Practitioner;Smartscholarship+Awardee+2022%2F2023;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=560&lines=Data+Science+Graduate+%40+ITERA;Machine+Learning+%26+Data+Analytics;Python+%7C+R+%7C+SQL+Practitioner;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,8 +16,7 @@
 
 ### 💡 About Me
 
-- 🎓 **Undergraduate**: Data Science student at **Institut Teknologi Sumatera (ITERA)**
-- 🏆 **Honors**: **Smartscholarship 2022/2023** Awardee by *YBM BRILiaN*
+- 🎓 **Education**: Data Science Graduate from **Institut Teknologi Sumatera (ITERA)**
 - 🔍 **Core Focus**: Machine Learning, Predictive Modeling, and Statistical Data Analysis
 - 🗣️ **Languages**: Fluent in English & Bahasa Indonesia
 - 🎯 **Mission**: Leveraging data-driven decision-making and technology to solve real-world problems
